@@ -3,15 +3,15 @@
 IPRA Task Management is a lightweight task tracking application inspired by Jira, designed to help teams manage their tasks and bugs efficiently. The application allows users to create, update, and track tasks and bugs, along with adding comments and changing their status.
 ## Screenshots
 
-![Screenshot 1](https://i.ibb.co/WnGC82r/screenshot1.png)
+![Screenshot 1](https://i.ibb.co/vPq8vt8/ipra5.png)
 
-![Screenshot 2](https://i.ibb.co/7v7Jdb2/screenshot2.png)
+![Screenshot 2](https://i.ibb.co/b1pgM7z/ipra2.png)
 
-![Screenshot 3](https://i.ibb.co/RSVy1jX/screenshot3.png)
+![Screenshot 3](https://i.ibb.co/N3HSXT0/ipra3.png)
 
-![Screenshot 4](https://i.ibb.co/gtdPp8T/screenshot4.png)
+![Screenshot 4](https://i.ibb.co/F6mpZDQ/ipra1.png)
 
-![Screenshot 5](https://i.ibb.co/584Vx7V/screenshot5.png)
+![Screenshot 5](https://i.ibb.co/CV6MZy7/ipra4.png)
 ## Features
 
 - **Task and Bug Entities**: Define tasks and bugs with common attributes like title, description, creator, tester, assignee, and status.

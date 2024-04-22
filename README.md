@@ -51,13 +51,15 @@ To install IPRA Task Management, follow these steps:
 5. Generate application key: `php artisan key:generate`
 6. Migrate the database: `php artisan migrate`
 7. Start to seed the database with example data: `php db:seed`
+8. `NPM RUN DEV`
 
 ## Usage
 
 To use IPRA Task Management, follow these steps:
 
 1. Run the application: `php artisan serve`
-2. Access the application in your web browser at `http://localhost:8000`
+2. Run the NPM: `npm run dev`
+3. Access the application in your web browser at `http://localhost:8000`
 
 ## License
 

@@ -1,7 +1,10 @@
-<script>
+<script setup lang="ts">
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import { Head } from '@inertiajs/vue3';
 import MainCalculations from '@/Components/MainCalculations.vue';
+
+declare const canLogin: boolean; // Declare type for canLogin
+declare const canRegister: boolean; // Declare type for canRegister
 </script>
 
 <template>

@@ -103,9 +103,9 @@ export default defineComponent({
     CommentSection
   },
   props: {
-    item:{ Object} as () => any, // Define the type for item prop
+    item:{ Object} as any, // Define the type for item prop
     comments: Array as () => any[],
-    authenticatedUserId: Number as () => number
+    authenticatedUserId: { type: Object as () => { userId: number } }
   },
   data() {
     return {
